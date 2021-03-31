@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "Kaeya.png",
+    "imagenElemento": "Element_Cryo.png",
+    "personaje": "Kaeya",
+    "numero": "1",
+    "tipo": "Sub DPS",
+    "descripcion": "Kaeya es un personaje sumamente infravalorado que puede ser un arma poderosa en el equipo adecuado y sobre todo si está bien buildeado. Como SUB Dps nos puede aportar gran utilidad y daño al equipo.",
+    "arma1": "Espada_de_Favonius.png",
+    "nombreArma1": "Espada de favonius(4⭐)",
+    "arma2": "Espada_de_Sacrificio.png",
+    "nombreArma2": "Espada del Sacrificio (4⭐)",
+    "stat1": "Recarga de energía",
+    "stat2": "Bono daño Cryo",
+    "stat3": "Daño crítico",
+    "artefacto1": "Nobleza.png",
+    "nombreArtefacto1": "Ritual antiguo de la nobleza x4",
+    "artefacto2": "Nobleza.png",
+    "nombreArtefacto2": "Ritual antiguo de la nobleza x4"
+}

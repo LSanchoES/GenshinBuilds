@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "Albedo.png",
+    "imagenElemento": "Element_Geo.png",
+    "personaje": "Albedo",
+    "numero": "1",
+    "tipo": "Sub DPS",
+    "descripcion": "Debido a sus bajos tiempos de espera y a la gran utilidad de sus habilidades, Albedo es un personaje excepcional como SubDPS. Su gran escalado de daño basado en la defensa le permiten ser un arma infalible contra sus enemigos",
+    "arma1": "Cortador_de_Jade_Primordial.png",
+    "nombreArma1": "Cortador de jade primordial(5⭐)",
+    "arma2": "Deseo_Ponzo.png",
+    "nombreArma2": "Deseo ponzoñoso(4⭐)",
+    "stat1": "DEF%",
+    "stat2": "Bono daño Geo",
+    "stat3": "Daño crítico",
+    "artefacto1": "Petra Arcaica.png",
+    "nombreArtefacto1": "Petra arcaica x2",
+    "artefacto2": "Nobleza.png",
+    "nombreArtefacto2": "Ritual antiguo de la nobleza x2"
+}

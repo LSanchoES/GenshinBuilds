@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "Beidou.png",
+    "imagenElemento": "Element_Electro.png",
+    "personaje": "Beidou",
+    "numero": "1",
+    "tipo": "DPS",
+    "descripcion": "Beidou puede llegar a ser un gran DPS en las manos adecuadas, si eres rápido y sabes utilizar correctamente su habilidad elemental, este personaje puede darnos unos resultados increíbles. Sin olvidar el potencial de su habilidad definitiva y el daño que nos puede aportar.",
+    "arma1": "Lapida_del_Lobo.png",
+    "nombreArma1": "Lápida del lobo(5⭐)",
+    "arma2": "Médula_de_la_Serpiente_Marina.png",
+    "nombreArma2": "Médula de la serpiente marina(4⭐)",
+    "stat1": "ATK",
+    "stat2": "Bono daño Electro",
+    "stat3": "Daño crítico",
+    "artefacto1": "Trueno.png",
+    "nombreArtefacto1": "Furia del Trueno x2",
+    "artefacto2": "Gladiador.png",
+    "nombreArtefacto2": "Final del Gladiador x2"
+}

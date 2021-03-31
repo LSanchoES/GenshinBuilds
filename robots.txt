@@ -1,0 +1,4 @@
+User-agent:*
+Disallow: /footer
+Disallow: /header
+Sitemap: htttps//www.genshinbuilds.es/sitemap.xml

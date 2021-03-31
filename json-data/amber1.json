@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "Amber.png",
+    "imagenElemento": "Element_Pyro.png",
+    "personaje": "Amber",
+    "numero": "1",
+    "tipo": "Sub DPS",
+    "descripcion": "Amber puede ser una gran aliada si la utilizamos de la manera correcta, ayudando a generar reacciones elementales, quitar escudos rápidamente y conseguir la consonancia pyro la cual nos puede dar una gran ventaja.",
+    "arma1": "Último_Acorde.png",
+    "nombreArma1": "Último acorde (4⭐)",
+    "arma2": "Arco_de_Favonius.png",
+    "nombreArma2": "Arco de Favonius",
+    "stat1": "Recarga de energía",
+    "stat2": "Bono daño Pyro",
+    "stat3": "Daño crítico",
+    "artefacto1": "Nobleza.png",
+    "nombreArtefacto1": "Ritual antiguo de la nobleza x4",
+    "artefacto2": "Nobleza.png",
+    "nombreArtefacto2": "Ritual antiguo de la nobleza x4"
+}

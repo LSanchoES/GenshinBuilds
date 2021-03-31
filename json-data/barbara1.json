@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "Barbara.png",
+    "imagenElemento": "Element_Hydro.png",
+    "personaje": "Barbara",
+    "numero": "1",
+    "tipo": "Healer",
+    "descripcion": "Barbara es uno de los personajes que más pueden curarnos en Genshin Impact, destinado a ser un personaje de 5 estrellas finalmente se decidió poner como uno de 4. Aunque sus habilidades son extremadamente buenas como contrapartida nos moja cada cierto tiempo por lo que se hace bastante molesto luchar con ella contra enemigos Cryo. Recuerda que su curación aumenta por la vida que ella tiene por lo que necesitaremos buildear substats de vida en la medida de lo posible.",
+    "arma1": "Cuentos_de_Cazadores_de_Dragones.png",
+    "nombreArma1": "Cuento de cazadores de Dragones (3⭐)",
+    "arma2": "Prototipo_Ámbar.png",
+    "nombreArma2": "Prototipo Ambar (4⭐)",
+    "stat1": "Vida",
+    "stat2": "Recarga de energía",
+    "stat3": "Bono curación",
+    "artefacto1": "Doncella.png",
+    "nombreArtefacto1": "Doncella Amada x4",
+    "artefacto2": "Doncella.png",
+    "nombreArtefacto2": "Doncella Amada x4"
+}

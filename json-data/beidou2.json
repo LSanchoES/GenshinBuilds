@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "",
+    "imagenElemento": "",
+    "personaje": "",
+    "numero": "2",
+    "tipo": "Sub DPS",
+    "descripcion": "Beidou puede ser un excelente SUB Dps si necesitas en tu equipo un plus de daño electro. Utilizaremos basicamente su habilidad definitiva para realizar el mayor daño posible desencadenando todas las reacciones elementales que podamos con electro.",
+    "arma1": "Orgullo_Celestial.png",
+    "nombreArma1": "Orgullo celestial (5⭐)",
+    "arma2": "Segadora_de_la_Lluvia.png",
+    "nombreArma2": "Segadora de la lluvia (4⭐)",
+    "stat1": "Recarga de energía",
+    "stat2": "Bono daño Electro",
+    "stat3": "Probabilidad de crítico / ATK",
+    "artefacto1": "Nobleza.png",
+    "nombreArtefacto1": "Ritual antiguo de la nobleza x2",
+    "artefacto2": "Trueno.png",
+    "nombreArtefacto2": "Furia del trueno x2"
+}

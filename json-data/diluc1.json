@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "Diluc.png",
+    "imagenElemento": "Element_Pyro.png",
+    "personaje": "Diluc",
+    "numero": "1",
+    "tipo": "DPS",
+    "descripcion": "Uno de los mejores DPS de Genshin Impact sin lugar a dudas, y una opción prioritaria si lo tienes en propiedad. Su daño insano y sus habilidades fantásticas lo convierten en un carry increíble que te hará la vida mucho más facil en el juego.",
+    "arma1": "Lapida_del_Lobo.png",
+    "nombreArma1": "Lápida del lobo(5⭐)",
+    "arma2": "Médula_de_la_Serpiente_Marina.png",
+    "nombreArma2": "Médula de la serpiente marina(4⭐)",
+    "stat1": "ATK",
+    "stat2": "Bono daño Pyro",
+    "stat3": "Daño crítico",
+    "artefacto1": "Bruja.png",
+    "nombreArtefacto1": "Bruja carmesí en llamas x4",
+    "artefacto2": "Bruja.png",
+    "nombreArtefacto2": "Bruja carmesí en llamas x4"
+}

@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "Chongyun.png",
+    "imagenElemento": "Element_Cryo.png",
+    "personaje": "Chongyun",
+    "numero": "1",
+    "tipo": "Sub DPS",
+    "descripcion": "Este personaje puede llegar a ser un gran SUB Dps si lo buildeamos correctamente y lo ponemos en el equipo adecuado, recuerda que todos los ataques básicos a melee que des dentro del area de su habilidad elemental se convertirán en daño cryo. Basaremos su utilidad en en uso de su habilidad definitiva.",
+    "arma1": "Orgullo_Celestial.png",
+    "nombreArma1": "Orgullo celestial (5⭐)",
+    "arma2": "Gran_Espada_de_Sacrificio.png",
+    "nombreArma2": "Gran espada del sacrificio (4⭐)",
+    "stat1": "Recarga de energía",
+    "stat2": "Bono daño Cryo",
+    "stat3": "Probabilidad de crítico / ATK",
+    "artefacto1": "Nobleza.png",
+    "nombreArtefacto1": "Ritual antiguo de la nobleza x4",
+    "artefacto2": "Nobleza.png",
+    "nombreArtefacto2": "Ritual antiguo de la nobleza x4"
+}

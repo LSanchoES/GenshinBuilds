@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "Bennett.png",
+    "imagenElemento": "Element_Pyro.png",
+    "personaje": "Bennett",
+    "numero": "1",
+    "tipo": "Sub DPS",
+    "descripcion": "El potencial de Bennet como SUB Dps es simplemente increíble. Este personaje puede hacer que nuestro DPS principal obtenga una cantidad ingente de daño si lo buildeamos adecuadamente. Recuerda que solo las stat base de Bennet afectan al bono de daño de su habilidad definitiva.",
+    "arma1": "Skyward_Blade.png",
+    "nombreArma1": "Espada de Skyward(5 ⭐)",
+    "arma2": "Deseo_Ponzo.png",
+    "nombreArma2": "Deseo Ponzoñoso (4 ⭐)",
+    "stat1": "Recarga de energía",
+    "stat2": "Vida",
+    "stat3": "Bono curación",
+    "artefacto1": "Nobleza.png",
+    "nombreArtefacto1": "Ritual antiguo de la nobleza x4",
+    "artefacto2": "Nobleza.png",
+    "nombreArtefacto2": "Ritual antiguo de la nobleza x4"
+}

@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "Hu Tao.png",
+    "imagenElemento": "Element_Pyro.png",
+    "personaje": "Hu Tao",
+    "numero": "1",
+    "tipo": "DPS",
+    "descripcion": "Hu Tao es un personaje que necesita buildear vida para sacar todo su potencial, además el daño pyro es clave en su build ya que puede hacer gran cantidad de daño una vez activa su habilidad elemental.",
+    "arma1": "Baculo_de_Homa.png",
+    "nombreArma1": "Báculo de Homa (5⭐)",
+    "arma2": "perdicion_del_dragon.png",
+    "nombreArma2": "Perdición del dragón (4⭐)",
+    "stat1": "Vida",
+    "stat2": "Bono daño Pyro",
+    "stat3": "Daño crítico",
+    "artefacto1": "Bruja.png",
+    "nombreArtefacto1": "Bruja carmesí en llamas x4",
+    "artefacto2": "Bruja.png",
+    "nombreArtefacto2": "Bruja carmesí en llamas x4"
+}

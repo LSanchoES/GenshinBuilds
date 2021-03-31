@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "",
+    "imagenElemento": "",
+    "personaje": "",
+    "numero": "2",
+    "tipo": "DPS",
+    "descripcion": "Aunque es recomendable jugar a Chongyun como SubDPS por su utilidad y velocidad de recarga de la habilidad definitiva, se puede jugar como DPS principal buildeandolo de la manera adecuada y teniendo en cuenta siempre sus constelaciones y la consonancia cryo.",
+    "arma1": "Lapida_del_Lobo.png",
+    "nombreArma1": "Lápida del lobo(5⭐)",
+    "arma2": "Prototipo_Arcaico.png",
+    "nombreArma2": "Prototipo Arcaico (4⭐)",
+    "stat1": "ATK",
+    "stat2": "Bono daño Cryo",
+    "stat3": "Daño crítico",
+    "artefacto1": "Nomada.png",
+    "nombreArtefacto1": "Nómada de invierno x2",
+    "artefacto2": "Gladiador.png",
+    "nombreArtefacto2": "Final del Gladiador x2"
+}

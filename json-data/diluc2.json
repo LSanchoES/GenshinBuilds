@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "",
+    "imagenElemento": "",
+    "personaje": "",
+    "numero": "2",
+    "tipo": "DPS",
+    "descripcion": "Sería una temeridad utilizar a Diluc como SUbDPS siendo uno de los mejores DPS del juego por lo que como segunda build proponemos una build basada en el daño físico en vez de en el pyro.",
+    "arma1": "Lapida_del_Lobo.png",
+    "nombreArma1": "Lápida del lobo(5⭐)",
+    "arma2": "Prototipo_Arcaico.png",
+    "nombreArma2": "Prototipo Arcaico (4⭐)",
+    "stat1": "ATK",
+    "stat2": "Bono daño Pyro",
+    "stat3": "Daño crítico",
+    "artefacto1": "Gladiador.png",
+    "nombreArtefacto1": "Final del gladiador x4",
+    "artefacto2": "Gladiador.png",
+    "nombreArtefacto2": "Final del Gladiador x4"
+}

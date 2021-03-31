@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "",
+    "imagenElemento": "",
+    "personaje": "",
+    "numero": "2",
+    "tipo": "DPS",
+    "descripcion": "Esto puede parecer una trolleada (y lo es) pero si necesitas un mago con daño hydro y no tienes a Mona, siempre puedes echarte unas risas con nuestra build ofensiva de Barbara (utilizando ataques cargados pega bastante).",
+    "arma1": "Sinfonía_de_los_Merodeadores.png",
+    "nombreArma1": "Sinfonía de los merodeadores (4⭐)",
+    "arma2": "Candado_Terrenal.png",
+    "nombreArma2": "Candado Terrenal (5⭐)",
+    "stat1": "ATK",
+    "stat2": "Maestria elemental",
+    "stat3": "Daño crítico",
+    "artefacto1": "HydroSet.png",
+    "nombreArtefacto1": "Corazón de las profundidades x4",
+    "artefacto2": "HydroSet.png",
+    "nombreArtefacto2": "Corazón de las profundidades x4"
+}

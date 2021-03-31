@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "",
+    "imagenElemento": "",
+    "personaje": "",
+    "numero": "2",
+    "tipo": "DPS",
+    "descripcion": "Aunque debido a sus habilidades Bennet es un personaje destinado al soporte, podemos utilizarlo como DPS si fuera necesario y con la build adecuada.",
+    "arma1": "Cortador_de_Jade_Primordial.png",
+    "nombreArma1": "Cortador de jade primordial(5 ⭐)",
+    "arma2": "Espina_de_Hierro.png",
+    "nombreArma2": "Espina de hierro(4⭐)",
+    "stat1": "ATK",
+    "stat2": "Bono daño Pyro",
+    "stat3": "Daño crítico",
+    "artefacto1": "Bruja.png",
+    "nombreArtefacto1": "Bruja carmesí en llamas x4",
+    "artefacto2": "Bruja.png",
+    "nombreArtefacto2": "Bruja carmesí en llamas x4"
+}

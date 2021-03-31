@@ -1,0 +1,19 @@
+{
+    "imagenPersonaje": "",
+    "imagenElemento": "",
+    "personaje": "",
+    "numero": "2",
+    "tipo": "DPS",
+    "descripcion": "Aunque pueda parecer una locura algunas personas utilizan a Amber como DPS (es importante tener muchas constelaciones para que funcione) Se basa en el daño producido por la flecha cargada, así que si tienes buena puntería puede ser una opción!",
+    "arma1": "Arco_de_Amos.png",
+    "nombreArma1": "Arco de Amos (5⭐)",
+    "arma2": "Prototipo_Luz_de_Luna.png",
+    "nombreArma2": "Prototipo luz de luna (4⭐)",
+    "stat1": "ATK",
+    "stat2": "Bono daño Pyro",
+    "stat3": "Daño crítico",
+    "artefacto1": "Orquesta.png",
+    "nombreArtefacto1": "Orquesta del Errante x4",
+    "artefacto2": "Orquesta.png",
+    "nombreArtefacto2": "Orquesta del Errante x4"
+}

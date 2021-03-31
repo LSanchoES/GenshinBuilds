@@ -1,0 +1,19 @@
+{   
+    "imagenPersonaje": "Albedo.png",
+    "imagenElemento": "Element_Geo.png",
+    "personaje": "Albedo",
+    "numero": "2",
+    "tipo": "DPS",
+    "descripcion": "El potencial de Albedo como DPS es muy grande, ya que sus escalados de defensa son muy altos se puede conseguir mucho daño buildeando defensa, además el tiempo de espera de sus habilidades es muy bajo por lo que podemos causar gran daño en area en muy poco tiempo.",
+    "arma1": "Cortador_de_Jade_Primordial.png",
+    "nombreArma1": "Cortador de jade primordial(5⭐)",
+    "arma2": "EspadaNegraPeñascoOscuro.png",
+    "nombreArma2": "Espada larga del peñasco oscuro(4⭐)",
+    "stat1": "DEF%",
+    "stat2": "Bono daño Geo",
+    "stat3": "Daño crítico",
+    "artefacto1": "Gladiador.png",
+    "nombreArtefacto1": "Final del gladiador x2",
+    "artefacto2": "Petra Arcaica.png",
+    "nombreArtefacto2": "Petra arcaica X2"
+}
